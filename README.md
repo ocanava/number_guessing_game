@@ -7,6 +7,7 @@ Project 1 - Number Guessing Game
 import random
 
 def start_game():
+
     print("Welcome to the Number Guessing Game!!")
     input("Press ENTER to continue...")
     number_of_guesses = 0
